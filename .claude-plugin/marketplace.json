@@ -1,0 +1,15 @@
+{
+  "name": "zenith-leadmagnet-mp",
+  "description": "Marketplace del plugin Zenith Lead Magnet Master (Joseph Moreno).",
+  "owner": {
+    "name": "Joseph Moreno"
+  },
+  "plugins": [
+    {
+      "name": "zenith-leadmagnet-master",
+      "source": "./",
+      "description": "Crea Lead Magnets epicos, interactivos y gamificados en espanol de Espana. 1 skill creadora + 16 subagentes (idea+naming, critica, copy, creacion, gamificacion, intro cinematica, front SVG, back, code-review, QA) + biblia de copywriting + Big Idea + niveles de consciencia.",
+      "version": "1.0.0"
+    }
+  ]
+}

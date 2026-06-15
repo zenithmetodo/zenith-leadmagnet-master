@@ -1,0 +1,11 @@
+{
+  "name": "zenith-leadmagnet-master",
+  "description": "Sistema de agentes Claude Code para crear Lead Magnets EPICOS, interactivos y gamificados (no PDFs) en espanol de Espana. Una skill creadora orquesta 16 subagentes especializados que cubren idea + naming, critica esceptica, copywriting de persuasion, creacion del lead magnet, intro cinematica pre-landing, front (SVG/3D sin emojis), back, y code review continuo. Pipeline por compuertas: discovery, spec, spec-review, plan, idea, critica, creacion, propuesta HTML, gamificacion, intro, front, back, code-review, QA.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joseph Moreno"
+  },
+  "homepage": "https://github.com/zenithmetodo/zenith-leadmagnet-master",
+  "repository": "https://github.com/zenithmetodo/zenith-leadmagnet-master",
+  "license": "MIT"
+}
