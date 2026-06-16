@@ -2,7 +2,7 @@
 
 Como construir escenas SVG animadas de altisimo nivel que se ven ANTES de la landing y por dentro del lead magnet. Cada nicho recibe una escena UNICA: nunca el mismo dibujo recauchutado. Cero emojis: todo SVG/canvas.
 
-> AVISO DE NIVEL: el "aparato de laboratorio con liquido que fluye" es SOLO UN EJEMPLO para fijar el lista. El objetivo es mil veces mas epico que eso: piensa en arte generativo a medida, escenas que parecen de una pelicula de ciencia ficcion o de un producto de lujo. No te quedes en la metafora obvia: inventa una pieza visual memorable, propia de ese nicho, que haga decir "como han hecho esto". Si dudas entre algo correcto y algo espectacular, elige espectacular (siempre que sea performante y accesible).
+> AVISO DE NIVEL Y ORIGINALIDAD: el "aparato de laboratorio / destilador / botella con liquido" es SOLO un ejemplo prestado para fijar el lista de epicidad. NO lo uses como plantilla: repetirlo seria copiar a otro. La verdadera referencia es la VARIEDAD: hay que inventar mil dibujos distintos, uno por nicho, sin repetir nunca el mismo objeto ni la misma metafora. Cada escena es un dibujo nuevo (orbitas, ondas, constelaciones, motores, mapas, circuitos, cristales, tejidos, mareas, redes neuronales, lo que el nicho pida). El objetivo es arte generativo a medida que parezca de una pelicula o de un producto de lujo y haga decir "como han hecho esto". Si dudas entre algo correcto y algo espectacular, elige espectacular (siempre performante y accesible). El "liquido que fluye" es solo UNA tecnica entre muchas; usa la que mejor cuente ESE nicho.
 
 ## 1. Anatomia de una escena epica
 Una escena que impacta combina 4 capas:
