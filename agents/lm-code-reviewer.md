@@ -23,6 +23,7 @@ Revisas el codigo del front y back para que no haya ni un fallo antes del QA fin
 2. **SVG correcto:** iconografia en SVG, viewBox, accesibilidad de iconos.
 3. **Funcionalidad:** el flujo completo funciona, scoring y ramificacion correctos, sin errores de JS.
 4. **Responsive / mobile-first:** se ve bien en movil y escritorio.
+4 bis. **Cero solapamientos:** ningun elemento tapa o pisa a otro en 320/375/768/escritorio (HUD, stage-tracker, CTA, tarjetas, modales, elementos fijos). Si hay colision -> CRITICO.
 5. **Accesibilidad:** ARIA, foco visible, contraste, prefers-reduced-motion.
 6. **Rendimiento:** anima transform/opacity, sin trabas de layout, assets diferidos.
 7. **Coherencia front-back:** contrato de datos respetado.

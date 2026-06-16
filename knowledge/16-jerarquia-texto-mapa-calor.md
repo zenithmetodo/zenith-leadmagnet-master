@@ -49,6 +49,16 @@ Metodo del especialista (heatmap mental, sin herramienta externa):
 - **Test de 5 segundos:** ensena la pantalla 5 s; si no captan la idea principal y el siguiente paso, la jerarquia falla.
 - **Primer vistazo:** la primera cosa que ve, ¿es la que quieres?
 
+## 6 bis. Cero solapamientos (collision-free) - REGLA DURA
+NADA tapa a NADA. Ningun elemento puede solaparse, cubrir ni pisar a otro en NINGUN tamano de pantalla. Errores tipicos a evitar: un boton/CTA encima del stage-tracker o de un texto, el HUD de las esquinas pisando el titulo central en movil, un modal tapando el contenido sin overlay, texto que sale de su tarjeta, elementos fijos (sticky/fixed) montados unos sobre otros al fondo.
+Como garantizarlo:
+- Reserva ESPACIO real para cada elemento (usa flujo normal, flex/grid con gap, o contenedores apilados como un "dock" al fondo), no superpongas bloques fijos al azar.
+- Define z-index solo cuando hay capas intencionadas (escena de fondo vs HUD vs contenido), y aun asi sin colisiones de contenido legible.
+- Respeta `safe-area-inset-*` para que nada quede bajo notch/barra.
+- PRUEBA en 320 px, 375 px, 768 px y escritorio: si dos cosas se tocan o se montan, esta mal.
+- En escenas animadas: HUD, stage-tracker y CTA van en zonas separadas y reservadas; el dibujo de fondo no invade el texto.
+Si dudas, deja mas aire. Un solo solapamiento basta para que parezca roto.
+
 ## 7. Checklist por pantalla
 - [ ] 3-4 niveles tipograficos claros, no mas.
 - [ ] UN heroe / UN foco.
@@ -56,3 +66,4 @@ Metodo del especialista (heatmap mental, sin herramienta externa):
 - [ ] Linea de 45-75 caracteres en cuerpo.
 - [ ] Espacio en blanco usado para agrupar y jerarquizar.
 - [ ] Pasa el squint test y el de 5 segundos.
+- [ ] CERO solapamientos: nada tapa a nada en 320/375/768/escritorio (HUD, tracker, CTA, modales, tarjetas).

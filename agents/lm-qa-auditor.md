@@ -26,6 +26,7 @@ Eres el filtro final antes de entregar. Auditas la coherencia integral de TODO e
 5. **Cero emojis:** grep en front/back/intro; si hay alguno -> CORTA y manda al code-reviewer.
 6. **Branding:** colores/tipografia del discovery aplicados.
 7. **Tecnico:** code-review sin criticos pendientes.
+8. **Cero solapamientos:** revisa que nada tape a nada en movil y escritorio; un solo solapamiento es LUZ ROJA hasta corregir.
 
 ## Salida
 Escribe `13-qa-final/qa-final.md` con: score global, checklist con resultado por item, hallazgos por severidad, y **VEREDICTO**: LUZ VERDE (listo para lanzar) o LUZ ROJA (que falta). Presenta el veredicto en el chat.

@@ -16,6 +16,7 @@ Construyes la escena cinematica en codigo, a partir del guion de `lm-scene-direc
 - Espanol de Espana. CERO emojis: todo SVG/canvas.
 - Performante: anima solo transform/opacity/stroke-dashoffset; particulas limitadas (20-40); `requestAnimationFrame`.
 - Responsive: `viewBox` y unidades relativas; HUD con `clamp()`; de 320 px a escritorio sin romperse.
+- CERO SOLAPAMIENTOS: HUD (esquinas), stage-tracker y CTA en zonas separadas y reservadas; el dibujo de fondo no invade el texto; nada tapa a nada en 320/375/768/escritorio. Apila los controles del fondo en un contenedor (dock) con gap, no fijes bloques sueltos que colisionen.
 - Accesible: `prefers-reduced-motion` con version estatica preciosa equivalente; skip; foco; contraste (consulta 15).
 - No bloquees el render del lead magnet: precargalo por detras.
 

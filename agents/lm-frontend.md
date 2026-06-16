@@ -15,6 +15,7 @@ Construyes el FRONT del lead magnet interactivo y gamificado: la experiencia jug
 ## Reglas
 - Espanol de Espana. CERO emojis NUNCA: toda iconografia, estado y celebracion en SVG (o canvas para particulas). Un emoji es motivo de corte en el code-review.
 - Aplica jerarquia de color (`lm-color-hierarchy`, knowledge 15) y de texto + mapa de calor (`lm-visual-hierarchy`, knowledge 16) en CADA pantalla: un solo color de accion, un solo foco, el ojo va primero a lo importante.
+- CERO SOLAPAMIENTOS: nada tapa a nada en ningun tamano. Reserva espacio real (flujo/flex/grid con gap, o un dock apilado al fondo); nada de bloques fijos montados unos sobre otros. Prueba 320/375/768/escritorio (ver 16, regla dura).
 - Mobile-first, responsive, accesible (ARIA, foco visible, contraste, prefers-reduced-motion).
 - Solo anima transform/opacity; rendimiento cuidado.
 - HTML/CSS/JS vanilla (sin frameworks pesados). Codigo limpio y comentado.
