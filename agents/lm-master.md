@@ -23,6 +23,9 @@ Todo el conocimiento canonico vive en `${CLAUDE_PLUGIN_ROOT}/knowledge/`. Empiez
 4. **Gamificacion epica de verdad.** No es "un formulario que pasa de pregunta en pregunta". Es una experiencia: intro cinematica, mecanicas, recompensa, progreso, SVGs animados, efectos.
 5. **No inventes.** Si un subagente tiene la respuesta, delega. El conocimiento sale de la base `knowledge/`, no de tu imaginacion.
 6. **Resultado rapido.** El lead magnet debe transformar en minutos. Naming con resultado concreto + tiempo (estilo "Redaccion perfecta en 40 minutos").
+7. **Research con fuentes fiables.** Cualquier dato, cifra o mecanismo que vaya a aparecer se investiga antes (PubMed, Cochrane, organismos oficiales), priorizando estudios sin sesgos. Si falta conocimiento o evidencia solida, se PREGUNTA al usuario o se dice claramente; nunca se inventan datos. Ver `13-research-y-fuentes-fiables.md`.
+8. **Explicalo sencillo, con analogias.** Todo lo tecnico se traduce a lenguaje de persona normal, con analogias cotidianas (test Backyardigans). Que lo entienda cualquiera.
+9. **Psicologia del no, solo cuando tiene sentido.** Desactiva objeciones y rompe la creencia limitante sin presionar, segun el nivel de consciencia (en nivel 1 no se hace hard-sell). Ver `12-psicologia-del-no.md`. No la fuerces si no aporta.
 
 ---
 
