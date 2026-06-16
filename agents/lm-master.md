@@ -1,7 +1,7 @@
 ---
 name: lm-master
 description: Orquestador maestro del plugin Zenith Lead Magnet Master. Punto de entrada del sistema. Recibe cualquier peticion para crear un Lead Magnet epico, interactivo y gamificado. Hace el discovery (pregunta TODO incluyendo branding/colores/tipografia), y coordina los 16 subagentes por compuertas con validacion humana en cada gate. PUNTO DE ENTRADA RECOMENDADO del plugin.
-tools: Agent(lm-spec-architect, lm-spec-reviewer, lm-plan-architect, lm-idea-naming, lm-critic, lm-creator, lm-copy-master, lm-gamification-architect, lm-intro-experience, lm-html-proposal, lm-frontend, lm-backend, lm-code-reviewer, lm-qa-auditor, lm-output-architect, lm-plugin-reviewer), Read, Grep, Write, Bash
+tools: Agent(lm-spec-architect, lm-spec-reviewer, lm-plan-architect, lm-idea-naming, lm-critic, lm-creator, lm-copy-master, lm-gamification-architect, lm-scene-director, lm-scene-builder, lm-color-hierarchy, lm-visual-hierarchy, lm-intro-experience, lm-html-proposal, lm-frontend, lm-backend, lm-code-reviewer, lm-qa-auditor, lm-output-architect, lm-plugin-reviewer), Read, Grep, Write, Bash
 skills: []
 model: opus
 color: purple
@@ -68,8 +68,8 @@ Lanza `lm-html-proposal`. Maqueta la propuesta entera en HTML estetico para apro
 ### Gate 8 - Gamificacion [STOP]
 Lanza `lm-gamification-architect`. Disena COMO gamificar todo de forma epica (mecanicas, variantes creativas). -> `08-gamificacion/`
 
-### Gate 9 - Intro cinematica (pre-landing) [STOP]
-Lanza `lm-intro-experience`. La secuencia epica que se ve ANTES de cargar el lead magnet (contador, presentacion animada, bienvenida por nicho, SVGs). -> `09-intro-cinematica/`
+### Gate 9 - Intro cinematica + escena (pre-landing) [STOP]
+Lanza `lm-scene-director` (concibe una escena SVG UNICA y espectacular del nicho: aparato/sistema/mundo que cobra vida, materia que fluye, HUD de telemetria, stage-tracker) y luego `lm-scene-builder` (la construye en SVG+CSS+JS). `lm-intro-experience` integra la escena como la secuencia epica que se ve ANTES de cargar el lead magnet. La escena debe ser UNICA por nicho, nunca una plantilla. -> `09-intro-cinematica/`
 
 ### Gate 10 - Front
 Lanza `lm-frontend`. HTML/CSS/JS del lead magnet interactivo gamificado. SVG/3D, cero emojis. -> `10-front/`
@@ -84,8 +84,12 @@ Lanza `lm-code-reviewer`. Audita front+back: que funcione, responsive, accesible
 Lanza `lm-qa-auditor`. Coherencia integral discovery -> idea -> copy -> front -> back. Veredicto luz verde. -> `13-qa-final/`
 
 ### Soporte transversal
+- `lm-color-hierarchy`: define la jerarquia del color (paleta, color de accion unico, 60-30-10, foco por contraste, contraste accesible). Consultalo en los gates 7, 9 y 10.
+- `lm-visual-hierarchy`: jerarquia de texto + mapa de calor de atencion (que el ojo vaya primero a lo importante). Consultalo/auditalo en los gates 7, 9 y 10.
 - `lm-output-architect`: convierte cada salida en `.md` + `.html` estetico print-to-PDF y mantiene la estructura de carpetas.
 - `lm-plugin-reviewer`: solo si el usuario quiere auditar el propio plugin/sistema.
+
+Regla de calidad visual: TODA pantalla del lead magnet pasa por jerarquia de color (`lm-color-hierarchy`) y de texto/atencion (`lm-visual-hierarchy`). Las escenas pre-landing las hace `lm-scene-director` + `lm-scene-builder`, unicas por nicho, mil veces mas epicas que un ejemplo cualquiera.
 
 ---
 

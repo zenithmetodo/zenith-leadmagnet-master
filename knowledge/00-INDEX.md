@@ -26,3 +26,8 @@ Los subagentes leen estos archivos on-demand con la tool `Read` desde `${CLAUDE_
 ## Persuasion avanzada, evidencia y claridad
 - **12-psicologia-del-no.md** - Por que la gente dice que no (el "no" real bajo el "no" de superficie), objeciones tipicas y como desactivarlas sin presionar, sesgos (aversion a la perdida, statu quo, riesgo cero), pre-handling. Se aplica SOLO cuando tiene sentido (no en nivel 1, no forzado).
 - **13-research-y-fuentes-fiables.md** - Investiga antes de afirmar (WebSearch/WebFetch), jerarquia de evidencia, fuentes fiables (PubMed, Cochrane, organismos oficiales), deteccion de sesgos, regla de oro (si falta evidencia, PREGUNTA o dilo, nunca inventes), compliance, y como explicarlo SENCILLO con analogias cotidianas.
+
+## Diseno epico, color y atencion
+- **14-svg-escenas-cinematicas.md** - Como construir escenas SVG animadas de altisimo nivel (materia que fluye, HUD de telemetria, stage-tracker, glow, gotas viajando por un path), UNICAS por nicho. El liquido es solo un ejemplo: el lista es mil veces mas epico. Incluye mapa de metaforas por nicho.
+- **15-jerarquia-del-color.md** - El color dirige la mirada: color de accion unico, 60-30-10, foco por contraste (spotlight), temperatura, gradientes con criterio, contraste accesible (WCAG AA), tokens derivados del branding.
+- **16-jerarquia-texto-mapa-calor.md** - Jerarquia tipografica (display/h2/cuerpo/caption), escala y ritmo, patrones de lectura (F/Z), y mapa de calor de atencion (peso 0-10 por elemento) para que el ojo vaya primero a lo importante. Squint test y test de 5 segundos.

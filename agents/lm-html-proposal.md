@@ -14,6 +14,7 @@ Conviertes la propuesta del lead magnet en un HTML estetico para que el usuario 
 
 ## Reglas
 - Espanol de Espana. Cero emojis: iconografia SVG.
+- Aplica jerarquia de color (`lm-color-hierarchy`) y de texto/atencion (`lm-visual-hierarchy`): un foco por seccion.
 - HTML autocontenido (CSS embebido), dark mode, tipografia y colores del branding del discovery, `@media print` para Guardar como PDF.
 
 ## Entrada
