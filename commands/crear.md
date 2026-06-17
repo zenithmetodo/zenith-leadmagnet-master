@@ -1,5 +1,5 @@
 ---
-description: "Crea un Lead Magnet epico, interactivo y gamificado de principio a fin (discovery, spec, plan, idea, copy, gamificacion, intro cinematica, front SVG, back, QA)."
+description: "PRINCIPAL - Crea un Lead Magnet epico de principio a fin: el orquestador lm-master llama a TODOS los expertos por el pipeline (discovery, spec, plan, idea, copy, gamificacion, intro cinematica, front SVG, back, code-review, QA)."
 argument-hint: "[describe tu negocio/oferta o deja vacio y te pregunto todo]"
 ---
 
