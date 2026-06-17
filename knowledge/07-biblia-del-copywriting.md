@@ -149,6 +149,18 @@ Convertir lo abstracto en algo que se pueda ver, sentir, tocar y medir.
 - Compara con lo conocido ("es como tener un entrenador en el bolsillo").
 - Show, don't tell: no digas "es increible"; describe la escena para que lo concluya solo.
 
+### Las 4 preguntas que CREAN LA ESCENA en la cabeza (Deep Core)
+Para dimensionalizar, piensa una situacion concreta y cotidiana donde la persona tiene un problema REAL y respondela con 4 preguntas: 1) ¿DONDE esta? (cuando siente eso), 2) ¿QUIEN esta cerca? (testigos del momento), 3) ¿QUE intenta hacer? (en ese instante), 4) ¿QUE notan los demas? (lo que ven en ella). Ata una cosa a otra (dieta -> verde; comida rapida -> McDonald's). El lector se VE en una escena suya, no lee un concepto.
+
+### Pinta el momento, no lo expliques (lee cuentos)
+El cuento te hace VER: describe el detalle fisico (el frio, la mano, el olor) y te obliga a imaginar la escena. Lee narrativa, no solo teoria; te ensena a pintar momentos, no a explicarlos. Ejemplo: "se subio la cremallera del abrigo en septiembre para que en la cena no se le notara la barriga" (pinta) en vez de "no se sentia a gusto" (explica). Regla dura: si una frase EXPLICA un sentimiento abstracto, reescribela como una ESCENA con detalle fisico.
+
+### Analogias por nicho (entendibles al 100%)
+Las analogias son POR NICHO, no predeterminadas: salen del mundo del avatar (su profesion, su dia a dia) y van del tema del nicho, no de otro. Se entienden al 100% al instante; si una del nicho cuesta, usa una general que entienda cualquiera. Una idea por analogia, visual, sin deformar la verdad.
+
+### Sexy Canvas: presentalo apetecible aunque sea simple
+El producto es el mismo; lo que cambia es COMO lo presentas. La hamburgueseria saca la foto con la salsa cayendo, no la hamburguesa cruda en la plancha. Tu lead magnet y su pagina tienen que dar GANAS ("esto me lo quedo"), aunque el contenido sea simple. No es inflar: es mostrar el resultado en su mejor luz real.
+
 ## 15. Persuasion profunda
 7 principios de Cialdini: reciprocidad, compromiso/coherencia, prueba social, autoridad, simpatia, escasez, unidad.
 - Identidad vs anti-identidad: el lector compra para acercarse a la identidad que aspira y alejarse de la que teme. Vender identidad pesa mas que vender beneficio.

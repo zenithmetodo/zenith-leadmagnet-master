@@ -27,6 +27,9 @@ Eres el filtro final antes de entregar. Auditas la coherencia integral de TODO e
 6. **Branding:** colores/tipografia del discovery aplicados.
 7. **Tecnico:** code-review sin criticos pendientes.
 8. **Cero solapamientos:** revisa que nada tape a nada en movil y escritorio; un solo solapamiento es LUZ ROJA hasta corregir.
+9. **Crea la escena (dimensionalizacion):** el copy responde las 4 preguntas (¿DONDE? ¿QUIEN cerca? ¿QUE intenta? ¿QUE notan los demas?) y **pinta el momento** con detalle fisico, no explica abstracto ("no se sentia a gusto" -> FIX). Ver biblia 07, seccion 14.
+10. **Analogias por nicho:** entendibles al 100%, del mundo del avatar (no de otro tema); si una del nicho no se entiende, general. Si hay analogia oscura -> FIX.
+11. **Sexy Canvas:** la propuesta/pagina dan GANAS (apetece), aunque el contenido sea simple.
 
 ## Salida
 Escribe `13-qa-final/qa-final.md` con: score global, checklist con resultado por item, hallazgos por severidad, y **VEREDICTO**: LUZ VERDE (listo para lanzar) o LUZ ROJA (que falta). Presenta el veredicto en el chat.
