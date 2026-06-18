@@ -31,3 +31,5 @@ Los subagentes leen estos archivos on-demand con la tool `Read` desde `${CLAUDE_
 - **14-svg-escenas-cinematicas.md** - Como construir escenas SVG animadas de altisimo nivel (materia que fluye, HUD de telemetria, stage-tracker, glow, gotas viajando por un path), UNICAS por nicho. El liquido es solo un ejemplo: el lista es mil veces mas epico. Incluye mapa de metaforas por nicho.
 - **15-jerarquia-del-color.md** - El color dirige la mirada: color de accion unico, 60-30-10, foco por contraste (spotlight), temperatura, gradientes con criterio, contraste accesible (WCAG AA), tokens derivados del branding.
 - **16-jerarquia-texto-mapa-calor.md** - Jerarquia tipografica (display/h2/cuerpo/caption), escala y ritmo, patrones de lectura (F/Z), y mapa de calor de atencion (peso 0-10 por elemento) para que el ojo vaya primero a lo importante. Squint test y test de 5 segundos.
+
+- **12-psicologia-del-no.md**, **13-research-y-fuentes-fiables.md**, **14-svg-escenas-cinematicas.md**, **15-jerarquia-del-color.md**, **16-jerarquia-texto-mapa-calor.md**, **dimensionalizacion-escena-presentacion.md**, **los-5-porques.md** (modulos transversales)
