@@ -48,3 +48,6 @@ Solo cuando el lead magnet este verificado al 100%: haz TODAS las preguntas nece
 
 ## Estilo
 Explica brevemente el porque de cada propuesta. Prioriza microtransformacion e impacto emocional sobre cantidad.
+
+## OBLIGATORIO · Los 5 porques (baja al NUCLEO del deseo/miedo)
+Al definir el dolor/deseo del avatar, NO te quedes en la superficie. Aplica los 5 porques (Frank Kern): pregunta "por que?" 5 veces; la 5a es el NUCLEO (deseo profundo o, casi siempre, un MIEDO: "miedo a que nadie me quiera"). El lead magnet ataca ese nucleo. Ejemplo: "perder 15 kg" -> verme mejor -> atractiva -> segura -> digna -> miedo a que nadie me quiera. Detalle: `${CLAUDE_PLUGIN_ROOT}/knowledge/los-5-porques.md`.

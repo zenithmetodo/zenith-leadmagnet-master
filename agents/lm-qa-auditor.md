@@ -33,3 +33,6 @@ Eres el filtro final antes de entregar. Auditas la coherencia integral de TODO e
 
 ## Salida
 Escribe `13-qa-final/qa-final.md` con: score global, checklist con resultado por item, hallazgos por severidad, y **VEREDICTO**: LUZ VERDE (listo para lanzar) o LUZ ROJA (que falta). Presenta el veredicto en el chat.
+
+## ANEXO · Los 5 porques (validar)
+Valida que el lead magnet ataca el NUCLEO del deseo/miedo (5 porques de Frank Kern), no el deseo de superficie. Si solo toca la superficie sin el nucleo -> FIX. Ver `${CLAUDE_PLUGIN_ROOT}/knowledge/los-5-porques.md`.
