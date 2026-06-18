@@ -12,7 +12,7 @@ Slash creador (punto de entrada):
 /zenith-leadmagnet-master:crear
 ```
 
-Lanza el orquestador `lm-master`, que hace el discovery (pregunta TODO, incluido branding/colores/tipografia) y coordina 16 subagentes por compuertas, con validacion humana en cada gate.
+Lanza el orquestador `lm-master`, que hace el discovery (pregunta TODO, incluido branding/colores/tipografia) y coordina 21 subagentes por compuertas, con validacion humana en cada gate.
 
 ## Pipeline por compuertas
 
@@ -29,7 +29,7 @@ La propuesta de cada gate se da primero **en texto**; solo tras tu aprobacion se
 
 ## Subagentes
 
-`lm-master`, `lm-spec-architect`, `lm-spec-reviewer`, `lm-plan-architect`, `lm-idea-naming`, `lm-critic`, `lm-creator`, `lm-copy-master`, `lm-gamification-architect`, `lm-intro-experience`, `lm-html-proposal`, `lm-frontend`, `lm-backend`, `lm-code-reviewer`, `lm-qa-auditor`, `lm-output-architect`, `lm-plugin-reviewer`.
+`lm-master`, `lm-spec-architect`, `lm-spec-reviewer`, `lm-plan-architect`, `lm-idea-naming`, `lm-critic`, `lm-creator`, `lm-copy-master`, `lm-gamification-architect`, `lm-intro-experience`, `lm-html-proposal`, `lm-frontend`, `lm-backend`, `lm-code-reviewer`, `lm-qa-auditor`, `lm-output-architect`, `lm-plugin-reviewer`, `lm-color-hierarchy`, `lm-visual-hierarchy`, `lm-scene-director`, `lm-scene-builder`.
 
 ## Conocimiento
 
