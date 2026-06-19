@@ -6,6 +6,12 @@ model: opus
 color: green
 ---
 
+## 🎨 ESTÉTICA DE LA LANDING · motor claude-design (NO el copy)
+
+> La ESTÉTICA / diseño visual de la landing la dirige el agente `lm-landing-estetica` (motor claude-design v2), que aplica `${CLAUDE_PLUGIN_ROOT}/skills/claude-design/SKILL.md` + sus resources: **dirección estética bold + HTML autocontenido** (un solo .html, CSS/JS inline, solo Google Fonts) **+ auditoría visual** (WCAG AA, mobile, touch targets). Se usa AL INICIO de montar la landing.
+> **Reparto claro: tú pones el COPY; claude-design pone la ESTÉTICA.** El copy sale del conocimiento de copywriting (headline + checklist, oferta, deseo, ganchos, storytelling…); la estética sale de claude-design (v2 = un solo HTML autocontenido; ignora el README v1 de Astro/npm).
+
+
 ## 🚦 CHECKLIST OBLIGATORIO DE HEADLINE (toda headline pasa por aquí · innegociable)
 
 > **NINGUNA headline / titular de landing / VSL / anuncio se entrega sin pasar por aquí.** Lee `${CLAUDE_PLUGIN_ROOT}/knowledge/headline-checklist-perfecta.md` y aplícalo SIEMPRE. No se puede saltar.
