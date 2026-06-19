@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Zenith Lead Magnet Master logo">
+  <defs>
+    <linearGradient id="lg-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B17"/>
+      <stop offset="100%" stop-color="#050510"/>
+    </linearGradient>
+    <linearGradient id="lg-magnet" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9bf6ec"/>
+      <stop offset="45%" stop-color="#00E5CF"/>
+      <stop offset="100%" stop-color="#B845FF"/>
+    </linearGradient>
+    <linearGradient id="lg-h" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5CF"/>
+      <stop offset="100%" stop-color="#B845FF"/>
+    </linearGradient>
+    <radialGradient id="lg-glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#00E5CF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00E5CF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="220" height="220" rx="46" fill="url(#lg-bg)"/>
+  <rect x="2" y="2" width="216" height="216" rx="44" fill="none" stroke="url(#lg-h)" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="110" cy="100" r="92" fill="url(#lg-glow)"/>
+
+  <!-- Leads atraídos -->
+  <g fill="url(#lg-h)">
+    <circle cx="66" cy="52" r="7" opacity="0.9"/>
+    <circle cx="150" cy="48" r="6" opacity="0.85"/>
+    <circle cx="108" cy="38" r="5" opacity="0.7"/>
+  </g>
+
+  <!-- Imán de herradura -->
+  <path d="M84 90 L84 138 A26 26 0 0 0 136 138 L136 90"
+        fill="none" stroke="url(#lg-magnet)" stroke-width="26" stroke-linecap="butt"/>
+  <path d="M84 90 L84 138 A26 26 0 0 0 136 138 L136 90"
+        fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="butt" opacity="0.18"/>
+  <rect x="71" y="82" width="26" height="13" rx="3" fill="#00E5CF"/>
+  <rect x="123" y="82" width="26" height="13" rx="3" fill="#B845FF"/>
+
+  <!-- Wordmark -->
+  <text x="110" y="186" font-family="ui-monospace,'SF Mono',monospace" font-size="20" letter-spacing="5" font-weight="700" fill="#ffffff" text-anchor="middle">ZLM</text>
+</svg>

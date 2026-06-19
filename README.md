@@ -1,5 +1,11 @@
 # Zenith Lead Magnet Master
 
+<div align="center">
+
+<img src="assets/zenith-leadmagnet-banner.svg" alt="Zenith Lead Magnet Master" width="100%"/>
+
+</div>
+
 Sistema de agentes para Claude Code que crea **Lead Magnets epicos, interactivos y gamificados** (no PDFs de mierda) en espanol de Espana. Un lead magnet aqui no es informacion: es una **microtransformacion** que da resultado rapido, entretiene mientras sube el nivel de consciencia del lead, y deja claro que el "como completo" esta en tu oferta.
 
 Creado por Joseph Moreno. Sintesis de formaciones de lead magnets + Big Idea (Bigadia) + niveles de consciencia (Schwartz) + biblia de copywriting (Cialdini, Bencivenga, Halbert, Sugarman, Hormozi, Brunson) + los principios raiz del copy: las 5 palancas de Blair Warren, headline (puñetazo) + subheadline (datos), y "vende el deseo, no la necesidad".
