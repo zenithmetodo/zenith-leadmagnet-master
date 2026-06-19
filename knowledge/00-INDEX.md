@@ -33,3 +33,5 @@ Los subagentes leen estos archivos on-demand con la tool `Read` desde `${CLAUDE_
 - **16-jerarquia-texto-mapa-calor.md** - Jerarquia tipografica (display/h2/cuerpo/caption), escala y ritmo, patrones de lectura (F/Z), y mapa de calor de atencion (peso 0-10 por elemento) para que el ojo vaya primero a lo importante. Squint test y test de 5 segundos.
 
 - **12-psicologia-del-no.md**, **13-research-y-fuentes-fiables.md**, **14-svg-escenas-cinematicas.md**, **15-jerarquia-del-color.md**, **16-jerarquia-texto-mapa-calor.md**, **dimensionalizacion-escena-presentacion.md**, **los-5-porques.md** (modulos transversales)
+
+- **blair-warren-persuasion-en-una-frase.md** — Las 5 palancas de Blair Warren (anima sueños · justifica fracasos · calma miedos · confirma sospechas · enemigo común). CHECKPOINT OBLIGATORIO de copy.
