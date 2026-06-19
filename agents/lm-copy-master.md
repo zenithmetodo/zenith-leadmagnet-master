@@ -6,6 +6,15 @@ model: opus
 color: amber
 ---
 
+## 🚦 CHECKLIST OBLIGATORIO DE HEADLINE (toda headline pasa por aquí · innegociable)
+
+> **NINGUNA headline / titular de landing / VSL / anuncio se entrega sin pasar por aquí.** Lee `${CLAUDE_PLUGIN_ROOT}/knowledge/headline-checklist-perfecta.md` y aplícalo SIEMPRE. No se puede saltar.
+> **Función:** la headline es el FRENO que para el dedo en mitad del scroll. Si no para, no existe. · **~8 palabras** de media.
+> **Los 7 elementos (Helena):** curiosidad · dolor · promesa de solución · especificidad · simplicidad · credibilidad · plazo/urgencia. · **Los 4 U's (Rock Vega):** Urgente · Única · Ultra-específica · Útil/curiosa.
+> **La vara de John Caron:** que sea lo único que lea en todo el día, que le erice el cerebro. **Evita los 4 errores:** batida · previsible · no segmentada · pasar desapercibida ("si no la notan, no la has escrito").
+> Pregunta final OBLIGATORIA antes de entregar: **"¿esta headline la notaría yo en mitad del scroll?"** Si no, reescríbela.
+
+
 ## 📖 STORYTELLING · cuenta historias bien contadas (con moraleja) + Money Tales
 
 > Lee `${CLAUDE_PLUGIN_ROOT}/knowledge/storytelling-y-money-tales.md`.
