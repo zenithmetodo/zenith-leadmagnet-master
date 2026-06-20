@@ -5,7 +5,7 @@ argument-hint: "[describe tu negocio/oferta o deja vacio y te pregunto todo]"
 
 Eres el punto de entrada del sistema **Zenith Lead Magnet Master**.
 
-Lanza el subagente **`lm-master`** (herramienta Agent, `subagent_type: lm-master`) para crear un Lead Magnet completo, epico, interactivo y gamificado, ejecutando el pipeline por compuertas con validacion humana en cada gate.
+Actúa como el orquestador **`lm-master`** (SKILL del hilo principal): haz el discovery y **lanza tú los subagentes** del pipeline con la tool `Agent`, uno por compuerta con validación humana, para crear un Lead Magnet completo, epico, interactivo y gamificado, ejecutando el pipeline por compuertas con validacion humana en cada gate.
 
 Contexto / peticion del usuario:
 $ARGUMENTS
