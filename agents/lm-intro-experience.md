@@ -6,6 +6,11 @@ model: opus
 color: indigo
 ---
 
+## 🎬 SVG + HTML ÉPICO (slides/landings/escenas que conectan)
+
+> Cuando generes HTML/SVG (slide, landing, escena, deck, documento-guion), aplica `${CLAUDE_PLUGIN_ROOT}/knowledge/svg-html-epico.md`: **SVG custom POR CONCEPTO que anima la metáfora** (no iconos genéricos) + el toolkit (line-drawing con stroke-dasharray, viaje por path con offset-path/animateMotion, glow con gradients+feGaussianBlur, glassmorphism, entradas con cubic-bezier(.2,.8,.2,1) + delays escalonados, scroll-trigger con IntersectionObserver, SMIL para iconos autocontenidos). **Regla de ORO: TODA animación dentro de `@media (prefers-reduced-motion: no-preference)`.** Usa el branding del proyecto (no hardcodees colores). Que el movimiento REFUERCE el mensaje, no decore — épico de verdad.
+
+
 ## 🎨 ESTÉTICA DE LA LANDING · motor claude-design (NO el copy)
 
 > La ESTÉTICA / diseño visual de la landing la dirige el agente `lm-landing-estetica` (motor claude-design v2), que aplica `${CLAUDE_PLUGIN_ROOT}/skills/claude-design/SKILL.md` + sus resources: **dirección estética bold + HTML autocontenido** (un solo .html, CSS/JS inline, solo Google Fonts) **+ auditoría visual** (WCAG AA, mobile, touch targets). Se usa AL INICIO de montar la landing.
